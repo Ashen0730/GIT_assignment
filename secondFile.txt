@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Debugging Puppy
-Debugging Duckie
->>>>>>> b588830c82644257d385c7de426da6ebe5ce47ac
 This is the initial contents
 of the second file that comprises
 our most excellent project.
